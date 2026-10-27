@@ -1,0 +1,12 @@
+{
+  "mixture_k4_iter5_mae": 9.860050056513904,
+  "single_linear_mae": 15.551690262336582,
+  "best_tree": {
+    "mae": 10.596090430550353,
+    "criterion": "friedman_mse",
+    "splitter": "best",
+    "min_split": 2
+  },
+  "mae_reduction_vs_tree_pct": 6.946339113097011,
+  "latency_ratio_k4_vs_depth10_tree": 5.062913117822911
+}
